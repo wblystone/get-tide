@@ -1,0 +1,43 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3d42756110cd77fe80c95bf526b9d0e442fbe09a099533e21b79c2ca8e9b858c"
+        },
+        "requires": {
+            "python_version": "3.6.5"
+        },
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "beautifulsoup4": {
+            "hash": "sha256:11a9a27b7d3bddc6d86f59fb76afb70e921a25ac2d6cc55b40d072bd68435a76",
+            "version": "==4.6.0"
+        },
+        "certifi": {
+            "hash": "sha256:9fa520c1bacfb634fa7af20a76bcbd3d5fb390481724c597da32c719a7dca4b0",
+            "version": "==2018.4.16"
+        },
+        "chardet": {
+            "hash": "sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691",
+            "version": "==3.0.4"
+        },
+        "idna": {
+            "hash": "sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e",
+            "version": "==2.7"
+        },
+        "requests": {
+            "hash": "sha256:63b52e3c866428a224f97cab011de738c36aec0185aa91cfacd418b5d58911d1",
+            "version": "==2.19.1"
+        },
+        "urllib3": {
+            "hash": "sha256:b5725a0bd4ba422ab0e66e89e030c806576753ea3ee08554382c14e685d117b5",
+            "version": "==1.23"
+        }
+    },
+    "develop": {}
+}
